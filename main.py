@@ -1,0 +1,1 @@
+from src.ML_Project.config.configuration import main
